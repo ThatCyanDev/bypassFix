@@ -15,7 +15,7 @@
             "id": "1083910049124077598"
         }
     ],
-    "main": "src/index.js",
+    "main": "index.js",
     "vendetta": {
         "icon": "ic_edit_24px"
     }
