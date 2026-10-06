@@ -1,0 +1,22 @@
+{
+    "name": "BetterNSFWGateBypass",
+    "description": "Allows you to access NSFW channels without setting your age.",
+    "authors": [
+        {
+            "name": "Slara",
+            "id": "1008715724115685449"
+        },
+        {
+            "name": "Win8.1VMUser",
+            "id": "793935599702507542"
+        },
+        {
+            "name": "lucky())(())(()"
+            "id": "1083910049124077598"
+        }
+    ],
+    "main": "src/index.js",
+    "vendetta": {
+        "icon": "ic_edit_24px"
+    }
+}
