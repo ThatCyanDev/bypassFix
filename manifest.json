@@ -15,7 +15,7 @@
             "id": "1083910049124077598"
         }
     ],
-    "js": "https://raw.githubusercontent.com/ThatCyanDev/bypassFix/refs/heads/main/index.js",
+    "main": "https://raw.githubusercontent.com/ThatCyanDev/bypassFix/main",
     "vendetta": {
         "icon": "ic_edit_24px"
     }
